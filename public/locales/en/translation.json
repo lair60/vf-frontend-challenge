@@ -1,0 +1,27 @@
+{
+    "users_header": "Users",
+    "id_table": "id",
+    "name_table": "Name",
+    "type_table": "Type",
+    "placeholder_filter": "Filter by name",
+
+    "tooltipSize" : "The number of results per page (max 100)",
+    "tooltipSince" : "Users with an ID greater",
+    "labelSize" : "Size Page:",
+    "labelSince" : "From Id:",
+    "placeholder_search": "Search user",
+    "search_button" : "Search",
+    "reset_button" : "Reset",
+
+    "first_btn": "First",
+    "prev_btn": "Previous",
+    "next_btn": "Next",
+    "last_btn": "Last",
+
+    "headerTitleDetail": "Detail Page",
+    "labelNameDetail": "Name",
+    "labelEmailDetail": "Email",
+    "labelLocationDetail": "Location",
+    "labelUrlDetail": "Github"
+
+}

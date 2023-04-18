@@ -1,0 +1,16 @@
+{
+    "users_header": "Usuarios",
+    "id_table": "id",
+    "name_table": "Nombre",
+    "type_table": "Tipo",
+    "placeholder_filter": "Filtrar por nombre",
+
+    "placeholder_search": "Buscar usuario",
+    "search_button" : "Buscar",
+    "reset_button" : "Resetear",
+
+    "first_btn": "Primero",
+    "prev_btn": "Anterior",
+    "next_btn": "Siguiente",
+    "last_btn": "Ultimo"
+}

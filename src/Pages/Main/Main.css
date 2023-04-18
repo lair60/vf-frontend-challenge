@@ -1,0 +1,57 @@
+.btnSearch{
+    margin-right: 0.5em;
+}
+
+.blockMain{
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.blockHeader{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.blockFooter{
+    margin-top: 1em;
+}
+
+.blockFooter .btnPrev{
+    float: left;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.blockFooter .btnFirst{
+    float: left;
+}
+
+
+.blockFooter .btnLast{
+    float: right;  
+}
+
+.blockFooter .btnNext{
+    float: right;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.inputPage{
+    margin-right: 1em;
+}
+
+.selectSize{
+    margin-right: 1em;
+}
+
+@media screen and (min-width: 1024px) {
+    .blockMain{        
+        width: 50%;
+    }
+  }
+
+@media screen and (max-device-width: 1024px){
+    .blockMain{
+        width: 100%;
+    }
+}
